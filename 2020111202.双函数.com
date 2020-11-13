@@ -20,5 +20,5 @@ int sum(int a,int b)
 } 
 int main()
 {
-	printf("%d\n",sum(2020,3));
+	printf("%d\n",sum(2020,6));
 }
