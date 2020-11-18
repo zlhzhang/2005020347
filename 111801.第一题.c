@@ -22,5 +22,5 @@ if(!(a+b)+c-1&&b+c/2)
 	printf("1\n");
 else
 	printf("0\n");
-
+printf("1为真命题，0为假命题。");
 }
