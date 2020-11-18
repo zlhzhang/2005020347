@@ -8,10 +8,10 @@ int main()
 	scanf("%d",&n);
 
 	printf("这个月的天数是%d天\n",a[n-1]);
-	
+}
 	
 	
 	
 	//while(1){
 	//printf("zaoan\n");
-	}
+	//}
