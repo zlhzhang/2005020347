@@ -1,12 +1,11 @@
 #include<stdio.h>
 int main()
 {
+	int n;
 	printf("                                  打工人工资等级划分\n"); 
-int n;
-scanf("%d",&n);
+        scanf("%d",&n);
 if(n<=-1)
 	printf("你还有花呗没还，无法使用该程序。\n");
-
 else if(0<=n&&n<=500)
 	printf("赤贫。\n");
 else if(501<=n&&n<=1500)
