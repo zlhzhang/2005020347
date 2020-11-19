@@ -3,6 +3,6 @@ int main()
 {
 float i;
 scanf("%f",&i);
-printf("%.3f\n",i);
+printf("%.3lf\n",i);
 
 }
