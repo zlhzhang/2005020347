@@ -1,3 +1,4 @@
+//乘法
 #include<stdio.h>
 int sum(int a,int b)
 {
@@ -9,3 +10,57 @@ int main()
 	scanf("%d%d",&a,&b);
 	printf("%d\n",sum(a,b));
 }
+
+
+//减法
+#include<stdio.h>
+int sum(int a,int b)
+{
+	return(a-b);
+} 
+int main()
+{
+	int a; int b;
+	scanf("%d%d",&a,&b);
+	printf("%d\n",sum(a,b));
+}
+
+
+//加法
+#include<stdio.h>
+int sum(int a,int b)
+{
+	return(a+b);
+} 
+int main()
+{
+	int a; int b;
+	scanf("%d%d",&a,&b);
+	printf("%d\n",sum(a,b));
+}
+
+
+
+//除法
+#include<stdio.h>
+int sum(int a,int b)
+{
+	return(a/b);
+} 
+int main()
+{
+	int a; int b;
+	scanf("%d%d",&a,&b);
+	printf("%d\n",sum(a,b));
+}
+
+
+
+
+
+
+
+
+
+
+
