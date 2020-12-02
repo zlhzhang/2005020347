@@ -6,5 +6,6 @@ int main()
 	a=n/3600;
 	b=(n%3600)/60;
 	c=n%3600%60;
-	printf("%.2d:%.2d:%.2d:\n",a,b,c);
+	printf("%.2d:%.2d:%.2d\n",a,b,c);
 }
+
