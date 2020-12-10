@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main()
-{
+{	
+	
 	char n[30];
+	printf("输入口令才能玩游戏：wo shi shuai ge 的汉字。\n");
 	scanf("%s",&n);
 if( strcmp(n,"我是帅哥") ==0 )
 {
