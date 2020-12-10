@@ -23,5 +23,5 @@ else if(a<k){
          } 
 }
 else
-printf("名字错误");
+	printf("名字错误");
 }
