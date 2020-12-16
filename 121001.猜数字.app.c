@@ -38,11 +38,11 @@ if ( guess==answer )
 else if ( guess>answer )
 	{
 	printf ("有点大\n\n");
-    }
+    	}
 else if ( guess<answer )
 	{
 	printf ("有点小\n\n");
-    }
+    	}
 } 
 //第二个for循环结束
 }
